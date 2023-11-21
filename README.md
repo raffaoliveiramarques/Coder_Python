@@ -1,5 +1,5 @@
 # Coder_Python
-Curso de Python /n
+Curso de Python
 Rafael Oliveira Marques
 Colaboradores:
 Professor - Leandro Zanon
